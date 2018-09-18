@@ -1,0 +1,132 @@
+﻿[guide-content=6404]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[guide-content=6524][/guide-content]
+
+[toc]
+[hr]
+[pad]
+
+[h2]Baseline Spells[/h2]
+
+[h3]Damaging Abilities[/h3]
+[ul][li][spell=50842] is an AoE attack that deals damage and applies [spell=55078] to all enemies in a 10 yard area. This is the primary method for applying our disease debuff, as well as holding aggro on large groups of enemies.[/li]
+[li][spell=43265] deals damage to enemies in a targeted area with a radius of 10 yards. As long as you are standing in your [spell=43265], your [spell=206930] will hit up to 5 targets instead of 2.  It can cost a rune, but thanks to [spell=81136], most casts will be free.[/li]
+[li][spell=49998] consumes 45 Runic Power to heal 25% of the damage taken in the last 5 seconds and applies [spell=77513]. The heal has a floor value of 7% of your maximum health when not taking significant damage.[/li]
+[li][spell=195292] is a ranged aggro generator that also applies [spell=55078]. It should only be used to pick up ranged threat or to damage targets outside of melee range.[/li]
+[li][spell=206930] is the core Runic Power builder for Blood, damaging 2 targets, applying a 20% snare, and generating 15 Runic Power.[/li]
+[li][spell=195182] is a Runic Power builder that costs 2 runes and generates 3 stacks of [spell=195181].[/li][/ul]
+
+[h3]Defensive Abilities[/h3]
+[ul][li][spell=48707] Absorbs magic damage.  If a magical attack would apply a debuff while it is active, you will be immune to the debuff application.  In most cases where such a debuff immunity can occur, [spell=48707] should be saved for when those debuffs are to be applied. Otherwise, it should be used for the periods in an encounter where the largest amount of magical damage will occur.[/li]
+[li][spell=49028]: Grants 40% parry for 8 seconds and mirrors your attacks used during this time.  It is used at the start of the encounter to quickly build resources and then generally on cooldown afterward.  It can be held for a period of time to make sure you will be receiving auto-attacks to parry, or if you expect to receive a burst of fast or heavy-hitting auto-attacks soon. Your rune weapon's attacks have the following effects:
+[ul][li][spell=50842] will apply a second [spell=55078] to all targets hit.  This debuff will not provide you leech healing.[/li]
+[li][spell=206930] will grant an additional 5 Runic Power.[/li]
+[li][spell=195182] will generate an additional 3 stacks of [spell=195181].[/li]
+[/ul][/li]
+[li][spell=48792] will reduce damage taken by 30% for 8 seconds.  Given the longer cooldown, this ability is typically used for damage spikes that occur when other cooldowns are unavailable, or else when the total amount of damage you take is a mechanic in and of itself (and therefore abilities that absorb damage or increase maximum health are unsuitable.)[/li]
+[li][spell=55233] is your most versatile cooldown, increasing maximum health and healing received by 30%.  While this can be used reactively, it should feature prominently in your cooldown plan for any boss, and so should not be available to cover unexpected damage unless you have no other options.[/li][/ul]
+
+[h3]Utility Abilities[/h3]
+[ul][li][spell=47528] is your interrupt.  The 15-yard range makes this ability very useful for the first interrupt on newly-spawned enemies, interrupting adds casting from outside the group, or interrupts on enemies that cannot be safely engaged in melee range.[/li]
+[li][spell=56222] is your taunt.[/li]
+[li][spell=49576] is an ability unique to Death Knights that pulls your target to you and taunts them.  This should be used to reposition enemies, especially spellcasters, or as a second taunt.[/li]
+[li][spell=48265] is a baseline mobility cooldown available to all Death Knights.  In addition to the movement speed increase, it makes you immune to knockbacks and pushbacks while active, and prevents snares from reducing your speed below 70% passively. Be sure to keep it available for any knockbacks or other movement-impairing abilities in an encounter, and otherwise use it like any other mobility cooldown.[/li]
+[li][spell=108199] is an AoE version of [spell=49576], gripping all enemies within a 15-yard range to the target's location.  This can be used on both friendly and hostile targets, allowing for several options for a central point.  Unfortunately, this ability has no indicator of the grip range, so getting used to the range of the ability takes practice.  Note that unlike [spell=49576], this ability will not apply a taunt to enemies.[/li]
+[li][spell=61999] is a combat resurrection, bringing a dead player back to life instantly. Generally, tanks make a poor choice to be responsible for battle resurrections, but if you can be expected to be called on to use this ability, be sure to keep 30 Runic Power banked whenever possible in order to use this immediately.[/li]
+[li][spell=221562] is a ranged, five second, single-target stun.[/li]
+[li][spell=111673] will put an undead NPC under your control as a pet. Particularly in dungeons, this can provide access to powerful NPC buffs, debuffs, and attacks.[/li][/ul]
+
+[h3]Passive Abilities[/h3]
+[ul][li][spell=81136] will occasionally reset the cooldown of [spell=43265] and make the next cast free. Note that free casts of [spell=43265] will not generate Runic Power.[/li]
+[li][spell=77513], your mastery, grants a physical absorb shield for a portion of the healing done by [spell=49998] and increases attack power.[/li]
+[li][spell=48263] is a spec passive that makes tanking possible - granting 60% Stamina, 15% Armor, eliminating the chance to be critically hit by NPCs, increasing threat generation, and reducing the cooldown of [spell=49576].[/li][/ul]
+
+[h2]Blood Death Knight Rotation[/h2]
+
+Blood Death Knights are most effective when banking resources - you should never be completely out of runes unless you are taking high levels of damage and need to use all of your available resources to mitigate incoming damage.  Throughout this rotation, use [spell=49998] to maximize the healing generated.  Be ready to use it immediately after a large spike of damage - your goal is to recover health fast enough after damage taken that your healers don't have time to recognize your health is low and change their choices.  While the priority you follow will be the same during periods of active tanking and off-tanking phases, the lack of damage intake will naturally shift your ability use to favor [spell=206930] and using [spell=49998] only to avoid capping Runic Power.
+[pad]
+
+[tabs name="Blood Death Knight Rotations"]
+
+[tab name="Opener"]
+This opener assumes you are taking a boss on the pull. If you will not be tanking on the pull, simply pre-pot and follow the appropriate rotation, saving [spell=195182] for an active tanking period.
+
+[ol][li]Use your pre-pot.[/li]
+[li]Taunt the boss with [spell=56222].[/li]
+[li]Use [spell=206931], if talented, while closing with the boss.[/li]
+[li]Use [spell=49028] before the boss reaches melee range to ensure your abilities are off the global cooldown as you start taking damage.[/li]
+[li]Use [spell=195182] to build 6 stacks of [spell=195181].[/li]
+[li]Use [spell=50842] to apply [spell=55078].[/li][/ol]
+[/tab]
+
+[tab name="1-2 Targets"]
+[ul][li]Use [spell=195182] if your [spell=195181] will expire before you have a chance to refresh it in the normal course of your rotation.[/li]
+[li]Use [spell=49998] if your next ability would cause you to overcap Runic Power, or if [spell=77535] is about to expire (this will only be a problem during off-tanking periods, or when you will be out of melee range of any target for an extended period of time.)[/li]
+[li]Use [spell=206931] if you have it talented.  Be sure you will not need to interrupt the channel, for example to use [spell=56222] or [spell=49998].[/li]
+[li]Use [spell=50842] if you have 2 charges, or if any enemies in range are not affected by [spell=55078].[/li]
+[li]Use [spell=195182] if you have 7 or fewer stacks of [spell=195181] (6 or fewer if you have [spell=279503].) During [spell=49028], avoid refreshing [spell=195181] until you are at 4 stacks.[/li]
+[li]Use [spell=210764], if talented, when you have 2 charges and 3 or fewer runes.[/li]
+[li]Use [spell=206930] if you have 3 or more runes. You can also use this ability to rapidly generate Runic Power, even if you already have 3 runes recharging, but be sure to make sure you can use [spell=195182] when needed to keep [spell=195181] from falling off, or falling below 5 stacks for [spell=195181] with [spell=219786] talented.[/li]
+[li]Use [spell=50842] during [spell=49028].[/li]
+[li]Use [spell=43265] if you have a [spell=81136] proc available.[/li]
+[li]Use [spell=50842].[/li]
+[li]Use [spell=210764] if talented.[/li]
+[/ul]
+[/tab]
+
+[tab name="3+ Targets"]
+[ul][li]Use [spell=195182] if your [spell=195181] will expire before you have a chance to refresh it in the normal course of your rotation.[/li]
+[li]Use [spell=49998] if your next ability would cause you to overcap Runic Power, or if [spell=77535] is about to expire (this will only be a problem during off-tanking periods, or when you will be out of melee range of any target for an extended period of time.)[/li]
+[li]Use [spell=206931] if you have it talented.  Be sure you will not need to interrupt the channel, for example to use [spell=56222] or [spell=49998].[/li]
+[li]Use [spell=50842] if you have 2 charges, or if any enemies in range are not affected by [spell=55078].[/li]
+[li]Use [spell=195182] if you have 7 or fewer stacks of [spell=195181] (6 or fewer if you have [spell=279503].) During [spell=49028], avoid refreshing [spell=195181] until you are at 4 stacks.[/li]
+[li]Use [spell=43265].[/li]
+[li]Use [spell=210764], if talented, when you have 2 charges and 3 or fewer runes.[/li]
+[li]Use [spell=206930] if you have 3 or more runes. You can also use this ability to rapidly generate Runic Power, even if you already have 3 runes recharging, but be sure to make sure you can use [spell=195182] when needed to keep [spell=195181] from falling off, or falling below 5 stacks for [spell=195181] with [spell=219786] talented.[/li]
+[li]Use [spell=50842].[/li]
+[li]Use [spell=210764] if talented.[/li]
+[/ul]
+[/tab]
+[/tabs]
+
+
+[h2]Class Mechanics and Resources[/h2]
+
+Death Knights have two primary resources: Runes and [resource=6].  The two resources work in tandem with one another; spending Runes builds Runic Power.
+
+[h3]Runes[/h3]
+Death Knights have 6 runes; runes regenerate over 10 seconds, reduced by Haste.  You can have 3 Runes regenerating at the same time; generally, you want to make sure you never have more than 3 runes fully recharged to maximize your Rune generation.  In addition to normal Rune regeneration, Blood DKs can take [spell=210764] to generate Runes on demand. Runes are used for core rotational abilities, as well as several talents and utility spells:
+
+[ul]
+[li][spell=195182][/li]
+[li][spell=206930][/li]
+[li][spell=43265][/li]
+[li][spell=195292][/li]
+[li][spell=206931][/li]
+[li][spell=194679][/li]
+[/ul]
+
+[h3]Runic Power[/h3]
+Every Rune spent generates 10 Runic Power. Runic Power is used to fuel [spell=49998], your primary mitigation ability. Runic Power is also used by two talents, [spell=206940] and [spell=194844]. In addition to the base Runic Power generated by spending Runes, Blood Death Knights have a number of other sources of Runic Power:
+
+[ul]
+[li][spell=206930] generates 5 bonus Runic Power, for a total of 15 Runic Power per cast.[/li]
+[li]During [spell=49028], your rune weapon will generate another 5 bonus Runic Power every time you use [spell=206930].[/li]
+[li]The talent [spell=221536] generates 2 additional bonus Runic Power per target hit by [spell=206930].[/li]
+[li][spell=48707] generates 2 Runic Power for every 1% of your maximum health it absorbs.[/li]
+[li]The talent [spell=219809] generates 6 Runic Power per stack of [spell=195181] it consumes.[/li]
+[/ul]
+
+[guide-content=7132]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]

@@ -1,0 +1,64 @@
+﻿[ul]QuickStart Intro[/ul]
+[guide-content=7071]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[ul]About the Author[/ul]
+[guide-content=6524][/guide-content]
+[pad]
+[toc]
+[hr]
+[pad]
+
+[h2]Talents[/h2]
+[talent = death-knight/blood/cJBM/X_K/4-m/4-c/WtD]
+
+
+[h2]Rotation[/h2]
+[ul]
+[li]Use [spell=195182] if your [spell=195181] is about to expire, or is missing.[/li]
+[li]Use [spell=49998] if your health is low, or if your next ability would cause you to overcap Runic Power.[/li]
+[li]Use [spell=206931].[/li]
+[li]Use [spell=50842] if you have 2 charges, or if any enemies in range are not affected by [spell=55078].[/li]
+[li]Use [spell=195182] if you have 7 or fewer stacks of [spell=195181].[/li]
+[li]Use [spell=206930] if you have 3 or more runes.[/li]
+[li]Use [spell=43265] if you have a [spell=81136] proc available.[/li]
+[li]Use [spell=50842].[/li]
+[/ul]
+
+[h2]Stat Priority[/h2]
+
+This is a general guideline. Do not apply this logic to trinkets.
+
+[ul][li]Item Level > Haste >= Versatility > Mastery > Critical Strike[/li][/ul]
+
+[h2]Gear[/h2]
+
+[h3]Legendaries[/h3]
+
+Use [item=132452] and [item=144281] while leveling until 116.  Legendary effects are disabled at level 116; at that point, you may use legendaries for optimal stat allocation, or replace them entirely as you acquire stronger gear.
+
+[h3]Azerite Traits[/h3]
+
+Tuning of Azerite traits is currently in a state of heavy flux. We will update this guide with recommendations once traits have been fully evaluated.
+
+[h2]Enhancements[/h2]
+
+[h3]Consumables[/h3]
+Use [item=152641], [item=156526], and [item=163224]. 
+
+[h3]Gems and Enchantments[/h3]
+Use [item=154127], [spell=53344] and [item=153443].
+
+[guide-content=7129]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+

@@ -1,0 +1,57 @@
+﻿[ul]WeakAuras Intro[/ul]
+[guide-content=7073]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[ul]About the Author[/ul]
+[guide-content=6524][/guide-content]
+[pad]
+[toc]
+[hr]
+[pad]
+[ul]WeakAuras About[/ul]
+[guide-content=7081]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+[h2]WeakAuras for Blood Death Knights[/h2]
+
+[h3]Crokxe's Death Knight WeakAuras[/h3]
+[screenshot id=765733][/screenshot]
+[url=https://wago.io/NyKyPWbZf]Crokxe's WeakAura Set[/url] is a compact all-in-one display for all three Death Knight specs, tracking Runes, Runic Power, buffs, cooldowns, and other critical information.
+
+[h3]DS Heal Prediction[/h3]
+[screenshot id=776040][/screenshot]
+[url=https://wago.io/Hyzig5pSQ]This WeakAura[/url] can be placed over your health bar on the unit frame of your choice; it will place a green spark at the point your next [spell=49998] will heal you to.
+
+[h3]Khalid's Gorefiend's Counter[/h3]
+[screenshot id=765730][/screenshot]
+[url=https://wago.io/rkrrwO1V7]Khalid's Gorefiend's WeakAura[/url] gives you a simple numerical indicator of how many targets are in range of [spell=108199] if you were to cast it on yourself.
+
+[h3]Zeler's Effective Health - Magic and Physical[/h3]
+[screenshot id=765732][/screenshot]
+[url=https://wago.io/B1pg1fRub]Zeler's Effective Health WeakAura[/url] tracks all sources of health and mitigation currently active, and displays your effective health - how much raw damage you can take before mitigation - for both physical and magic attacks.
+
+[ul]WeakAuras Footer[/ul]
+[guide-content=7082]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[guide-content=7137]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]

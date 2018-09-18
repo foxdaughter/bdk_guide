@@ -1,0 +1,106 @@
+﻿[ul]Addon/Macro Intro[/ul]
+[guide-content=7072]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[ul]About the Author[/ul]
+[guide-content=6524][/guide-content]
+[pad]
+[toc]
+[hr]
+[pad]
+[ul]Macro Header[/ul]
+[guide-content=7078]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+[pad]
+
+[h3]Raise Ally[/h3]
+[code]#showtooltip Raise Ally
+/cast [@mouseover,help,dead][]Raise Ally[/code]
+This will cast your [spell=61999] on the player you have your cursor over. It works on both the actual corpse as well as unit frames. If you aren't currently over an eligible target, it will instead cast it on your target.
+
+[h3]Mind Freeze[/h3]
+[code]#showtooltip Mind Freeze
+/cast [@focus,harm,nodead][] Mind Freeze[/code]
+This will attempt to interrupt your focus target if they're eligible to interrupt. If you don't have a focus target (or if your focus is, for example, a friendly player,) it will instead interrupt your current target.
+
+[h3]Gorefiend's Grasp[/h3]
+[code]#showtooltip Gorefiend's Grasp
+/cast [@focus] Gorefiend's Grasp[/code]
+This will always center your [spell=108199] on your focus target. This can be useful if grouping adds to a designated player, for example.
+[pad]
+[code]#showtooltip Gorefiend's Grasp
+/cast [@mouseover,exists,nodead][@player] Gorefiend's Grasp[/code]
+This will center your [spell=108199] on the player, NPC, or unit frame you currently have your cursor over, if they are eligible.  If you are not moused over an eligible target, it will center on yourself.
+
+[h3]Death and Decay[/h3]
+[code]#showtooltip Death and Decay
+/cast [mod:ctrl, @mouseover] Death and Decay; [@player] Death and Decay[/code]
+This will let you bypass the ground targeting reticle and cast [spell=43265] at your cursor by holding down the Control key while casting, and directly under your feet otherwise.
+
+[h3]Pull Timers[/h3]
+[code]/pull 10[/code]
+If you have [url=https://mods.curse.com/addons/wow/deadly-boss-mods]Deadly Boss Mods[/url] or [url=https://mods.curse.com/addons/wow/big-wigs]BigWigs[/url] installed, this will issue a pull timer to the raid for the number of seconds specified (10 seconds in the example above.) You will need to have raid assist or lead in order to issue this command.
+[pad]
+[code]/pull 0[/code]
+This will cancel an existing pull timer.
+
+[pad]
+[hr]
+[ul]Addon Header[/ul]
+[guide-content=7079]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[h3]WeakAuras[/h3]
+[url=https://www.curseforge.com/wow/addons/weakauras-2]WeakAuras[/url] is a powerful and flexible framework that allows you to display highly customizable graphics on your screen to indicate buffs, debuffs, and a whole host of similar types of information. We strongly recommend using WeakAuras; see the WeakAuras page of this guide for more information about this addon and a list of useful weakauras for Blood Death Knights.
+
+[h3]ElvUI[/h3]
+[screenshot id=763899][/screenshot]
+[url=https://www.tukui.org/welcome.php#]ElvUI[/url] is a full-interface replacement addon with a clean, modern style and a high degree of customization. It is well-supported and has a vibrant community of players who maintain easily importable layouts and themes.
+
+[h3]BigWigs and DeadlyBossMods[/h3]
+[screenshot id=763900][/screenshot]
+[url=https://mods.curse.com/addons/wow/deadly-boss-mods]Deadly Boss Mods[/url] and [url=https://mods.curse.com/addons/wow/big-wigs]BigWigs[/url] add a number of tools for handing raid encounters - both come with customizable boss ability timers and alerts. Most raiding guilds and teams will expect you to have one of these installed, and for good reason.
+
+[h3]GTFO[/h3]
+[url=https://www.curseforge.com/wow/addons/gtfo]GTFO[/url] adds audio warnings for a wide array of raid and dungeon effects that can be avoided. It is an excellent tool for learning fights as well as helping to keep you from dying because you didn't notice you were standing in the fire.
+
+[h3]Compact Runes[/h3]
+[screenshot id=763902][/screenshot]
+[url=https://www.curseforge.com/wow/addons/compact-runes]Compact Runes[/url] places your runes in a small, clean UI element that makes it very easy to track how many runes you have available, as well as how many are currently recharging and when they will become available.  It also has options to track many buffs and cooldowns for all three Death Knight specializations.
+
+[h3]Details! Damage Meter[/h3]
+[screenshot id=763905][/screenshot]
+[url=https://www.curseforge.com/wow/addons/details]Details! Damage Meter[/url] is a powerful meters addon that can display a wide array of information about individual and team performance.  In addition to benchmarks such as damage dealt or taken, Details! can also provide comparison windows, threat meters, comprehensive death recaps, and much more.
+
+[h3]More Recommendations[/h3]
+[ul]Addon Recommendations[/ul]
+[guide-content=7080]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[guide-content=7136]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]

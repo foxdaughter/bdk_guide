@@ -1,0 +1,42 @@
+﻿[ul]Mythic+ Intro[/ul]
+[guide-content=7158]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[ul]About the Author[/ul]
+[guide-content=6524][/guide-content]
+[pad]
+[toc]
+[hr]
+[pad]
+[h2]Capping Resources[/h2]
+Your survival is directly linked to your ability to generate and wisely use your resources.  During a fight, you should never be at 4+ runes, or use a rune spender when you're at max Runic Power.
+
+[h2]Not Calling for External Cooldowns[/h2]
+If you are using voice, you're playing in a sufficiently coordinated group that there's no reason not to incorporate external defensive cooldowns into your play.  Those cooldowns in a group PvE environment exist for you 99% of the time.  If you died because four healers were all trying to decide if you were about to use your defensive cooldown instead of using one of theirs, that's on you.
+
+[h2]Using Defensive Cooldowns as Emergency Buttons[/h2]
+The game is built around the understanding that tanks have tools to mitigate massive damage.  Your cooldowns exist specifically to mitigate events during the encounter where you take massive damage.  Those events come in a predictable, repeatable fashion, and it is part of your responsibility as a tank to know what cooldown to use for what ability.  When you try to save your cooldowns for a rainy day, you die before you realize it was raining.
+
+[h2]Wasting Death Strikes[/h2]
+[spell=49998] Heals based on the amount of damage you've taken in the last 5 seconds.  Any time you are actively tanking, you should be aiming to use your Death Strikes when they will not overheal, and ideally when you will get maximum benefit from it. Burning Runic Power as soon as it comes in is a good way to leave yourself exposed with no way to mitigate incoming damage.
+
+[h2]Dropping Bone Shield[/h2]
+It's easy, particularly in Mythic+ or on fights with heavy movement, to lose track of the duration of [spell=195181] and let it fall off if you're not watching it.  Restacking Bone Shield takes a full bar of Runes and will leave you very weak while you wait for resources to recharge.
+
+[h2]Going Full Defense[/h2]
+It's common, particularly with new tanks, to feel like every choice should be aimed at making you as "tanky" as possible.  This choice is a mistake, for two reasons. Firstly, not all defensive choices give you significant benefits, and many come at the expense of significant damage.  You may like ice cream a lot more than you like cheeseburgers, but if you like both, few people would trade a lifetime's supply of cheeseburgers for a single spoonful of ice cream.
+
+Beyond that, in Battle for Azeroth, your damage as a tank matters more than it has in several years.  It is entirely plausible for a fully-defensive tank to have threat ripped off of them by a skilled DPS player, even after you've had plenty of time to establish initial aggro.
+[ul]Mythic+ Footer[/ul]
+[guide-content=7280]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]

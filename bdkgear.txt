@@ -1,0 +1,72 @@
+﻿[guide-content=6409]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+[pad][guide-content=6524][/guide-content][pad]
+[hr]
+[toc]
+[pad]
+
+[h2]Gear[/h2]
+
+[h3]Legion Legendaries[/h3]
+The effects of Legion Legendaries will stop working at Level 116, but until then they can provide helpful value while leveling. The following Legendaries are particularly useful while leveling:
+
+[ul][li][item=132452] is the best option for world questing, and generally in dungeons as well. Blood Death Knights have a number of tools to trigger the effect, to include [spell=47528], [spell=221562], and [spell=49576]. It also has a socket, which allows you to maintain an [item=153714] while leveling.[/li]
+[li][item=144281] should be used in nearly any situation.  The buff gives separate stacks from [spell=273946], leading to positively massive [spell=49998] casts.[/li]
+[li][item=132443] will start out as a strong choice for open world content, but you'll want to replace it with something else as your gear begins to provide less secondary relative your level fairly quickly.[/li]
+[li][item=146667] can potentially be useful while leveling with a movement speed buff that won't decay as you level up, and a guaranteed socket for [item=153714].[/li][/ul]
+
+[h3]Azerite Armor[/h3]
+[guide-content=7145][/guide-content]
+
+[h3]Trinkets[/h3]
+Trinket value can be extremely situational; make sure you understand how the trinket fits into your guild's strategy, as well as your personal cooldown plan.
+
+[table class="grid"]
+[tr][td width=1%][/td][td][b]Name[/b][/td][td width=75%][b]Notes[/b][/td][td][b]Source[/b][/td][/tr]
+[tr][td][/td][td][item=159627][/td][td]This is a solid cooldown with both offensive and defensive components, and is one of the best trinkets available for Blood Death Knights.[/td][td][npc=127484][/td][/tr]
+[tr][td][/td][td][item=161902][/td][td]Static Versatility with an on-demand Strength proc.  This is a solid and flexible trinket that leans slightly more towards offensive value.[/td][td]PvP[/td][/tr]
+[tr][td][/td][td][item=161674][/td][td]Static Strength with an on-demand Versatility proc.  This is the more defensive counterpart to [item=161902]; both are excellent options.[/td][td]PvP[/td][/tr]
+[tr][td][/td][td][item=159128][/td][td]This is the only "tank" trinket currently available worth pursuing. It can be a good choice if you need additional health for survival purposes, and can be easily acquired at a high item level (provided you have the spare gold.)[/td][td]Inscription[/td][/tr]
+[tr][td][/td][td][item=161379][/td][td]On-demand Haste and static Strength; this is a solid all-around trinket. The cooldown lines up well with [spell=49028].[/td][td][npc=136385][/td][/tr]
+[tr][td][/td][td][item=161419][/td][td]Versatility with a Strength proc; this is a decent option.[/td][td][npc=138794][/td][/tr]
+[tr][td][/td][td][item=158712][/td][td]Generally, a haste proc is less useful than static or on-demand haste, but this will still help with overall throughput.[/td][td][npc=127484][/td][/tr]
+[tr][td][/td][td][item=159625][/td][td]The sizable initial value of the on-demand strength makes this a usable choice to help with either burst damage or as a minor defensive cooldown.[/td][td][npc=133007][/td][/tr]
+[tr][td][/td][td][item=163936][/td][td]This isn't particularly amazing for Blood - Mastery doesn't provide us mitigation in a way that makes on-demand Mastery easily usable - but it could be a quick and easy option if you have excess gold burning a hole on your wallet.[/td][td]World BoE Drop[/td][/tr]
+[/table]
+
+[guide-content=6411]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[/guide-content]
+
+[table class="grid"]
+[tr][td width=1%][b]Slot[/b][/td] [td][b]Name[/b][/td] [td][b]Boss[/b][/td][/tr]
+[tr][td]Helm[/td][td][item=155866 azerite-powers=6:157:43:85:13][/td][td][npc=129412][/td][/tr]
+[tr][td]Shoulders[/td][td][item=161372 azerite-powers=6:156:22:85:13][/td][td][npc=140252][/td][/tr]
+[tr][td]Cloak[/td][td][item=158375][/td][td][npc=129399][/td][/tr]
+[tr][td]Chest[/td][td][item=160722 azerite-powers=6:485:99:85:13][/td][td][npc=138967][/td][/tr]
+[tr][td]Bracers[/td][td][item=160723][/td][td][npc=138967][/td][/tr]
+[tr][td]Gloves[/td][td][item=159421][/td][td][npc=139737][/td][/tr]
+[tr][td]Belt[/td][td][item=158360][/td][td][npc=129732][/td][/tr]
+[tr][td]Legs[/td][td][item=158313][/td][td][npc=129614][/td][/tr]
+[tr][td]Boots[/td][td][item=160640][/td][td][npc=134445][/td][/tr]
+[tr][td]Ring[/td][td][item=159459][/td][td][npc=134993][/td][/tr]
+[tr][td]Ring[/td][td][item=159458][/td][td][npc=143577][/td][/tr]
+[tr][td]Weapon[/td][td][item=159634][/td][td][npc=126969][/td][/tr]
+[/table]
+
+[h2]Blood Death Knight Stats[/h2]
+For a more in-depth look at stats, check out our [url=https://www.wowhead.com/blood-death-knight-stat-priority-guide]Blood DK Stat Priority Guide[/url].
+
+[guide-content=7134]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]

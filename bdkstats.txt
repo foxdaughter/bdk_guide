@@ -1,0 +1,42 @@
+﻿[ul]introduction ->[/ul][guide-content=6415]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+[pad]
+[ul]author ->[/ul][guide-content=6524][/guide-content]
+[pad]
+[hr]
+[toc]
+[pad]
+[ul]stats intro ->[/ul][guide-content=6412]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[/guide-content]
+Strength is your primary stat, found on plate gear. Strength increases your armor and attack power.
+
+For secondary stats, the Blood Death Knight has the following:
+
+[ul]
+[li][b]Critical Strike[/b]: Critical Strike is very strong offensively, but provides almost no defensive benefit.  Given that other stats provide meaningful benefit to both damage and survival, Critical Strike should generally be avoided.[/li]
+[li][b]Haste[/b]: Haste increases available resources and significantly improves your reaction time - the value of your self-healing is strongly dependent on how quickly you can recover from an attack, with the goal of landing a [spell=49998] fast enough after a large spike of damage that healers do not change their behavior to handle your health bar.  The value of Haste is also boosted by [spell=195181], which gives a 10% multiplicative buff to your total Haste.[/li]
+[li][b]Mastery[/b]:  [spell=77513] won't provide as much value as either Haste or Versatility, but there's no reason to actively avoid it.[/li]
+[li][b]Versatility[/b]: Versatility provides survival benefit twice, both by reducing damage taken and by increasing the strength of our self-healing.  It also provides a boost to damage output.  Versatility is very close in value to Haste in most situations.[/li]
+[/ul]
+
+[h2]Best Stats for Blood Death Knight[/h2]
+Tanks cannot effectively use a numerical weighting system to value stats.  This is because tanks are simultaneously optimizing for both DPS and mitigation; depending on variables to include your team's boss strategy, your co-tank's gear and skill level, your own skill, and the specific encounter, the precise numbers can fluctuate wildly from one situation to the next.  In general, prefer secondaries in the following priority:
+
+[ul][li]Haste > Versatility > Mastery > Critical Strike[/li][/ul]
+
+In most cases, the Armor and Strength - and to a lesser extent, Stamina - gained from pieces with a higher item level will outpace optimal secondary stats on non-jewelry slots.  As a general rule of thumb, prefer 10 item level upgrades for anything but the most poorly itemized pieces.  Proper itemization of rings 15 or more item levels, depending on the disparity in itemization.
+
+[guide-content=7133]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]

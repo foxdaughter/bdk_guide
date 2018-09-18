@@ -1,0 +1,62 @@
+﻿[guide-content=6407]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+[pad]
+[guide-content=6524][/guide-content]
+[toc]
+[hr]
+[pad]
+
+[h2]Recommended Builds[/h2]
+
+All-Purpose General Raiding Build:
+[center][talent=death-knight/blood/cJeM/X_K/4-c/4-m/WtD][/center]
+
+This build will work in most raid situations.  For Level 75 talents, choose whichever talent best serves the encounter; in single-target boss encounters this will always be [spell=212552].
+
+[h2]Blood Death Knight Talents Overview[/h2]
+
+[h3]Tier 1 (Level 56) Talents for Blood DK[/h3]
+In most situations, you will want to use [spell=206931]. While the leech effect now provides a negligible amount of defensive value, it provides a significant increase to damage done.  [spell=210764] can be used to give yourself more resources, but adds more complexity to the rotation and comes at a cost of approximately 2-3% total DPS compared to [spell=206931]. [spell=221536] adds a significant degree of survival when consistently facing several enemies, such as during Mythic+. The loss of damage is significant; only take Heartbreaker if you are doing higher-tier keys and need the added survivability.
+
+[h3]Tier 2 (Level 57) Talents for Blood DK[/h3]
+[spell=273946] should be taken for any situation.  Even in a single-target encounter, it provides a meaningful increase to both damage and self-healing. With the Runic Power component removed, [spell=194662] is almost useless from both damage and mitigation perspectives. [spell=274156] does barely more damage than [spell=50842] after considering armor, and the self-healing cannot come close to the value provided by [spell=273946].
+
+[h3]Tier 3 (Level 58) Talents for Blood DK[/h3]
+[spell=219786] should be taken for any situation. The Runic Power cost discount from [spell=219786] is a 12.5% increase to available [spell=49998] casts, and along with the increase to maximum Runic Power allows for players to bank a third use of [spell=49998]. [spell=206974] has been reduced in value by 50%, making it incredibly lackluster. [spell=219809] remains unchanged from Legion; Blood generally has more than enough cooldowns available to cover damage spikes, and the Bone Shield charge cost of [spell=219809] will leave you working to rebuild charges during a high-damage period, creating unnecessary danger.  
+
+[h3]Tier 4 (Level 60) Talents for Blood DK[/h3]
+[spell=206967] should be considered your default choice, though all talents on this row are situationally valuable. On some encounters, [spell=205727] may allow for better cooldown alignment, or the increased size may allow you to negate the application of a debuff.  In encounters with frequent large spikes of damage, [spell=194679] will have significant benefit.
+
+[h3]Tier 5 (Level 75) Talents for Blood DK[/h3]
+The value of talents on this row is almost entirely encounter-specific.  [spell=273952] should be used for encounters that require an AoE snare, but do not benefit from the reduced cooldown of [spell=108199] given by [spell=206970], particularly in Mythic+ dungeons. As [spell=108199] is a utility unique to Blood Death Knights, choose [spell=206970] any time the additional availability of [spell=108199] can be used. Having [spell=212552] gives Blood Death Knights a second mobility cooldown, this should be taken in any single-target encounter, and in any multi-target encounter where the added mobility provides value but where a reduced [spell=108199] does not.
+
+[h3]Tier 6 (Level 90) Talents for Blood DK[/h3]
+[spell=195679] should be taken for any situation.  Auto-attacks deal significantly larger amounts of damage with the patch, making it a meaningful increase to DPS.  With the stat squish, players have a much larger health pool relative to the damage they deal, and so the leech provided by [spell=273953] has minimal value.  [spell=206940] has had its duration reduced by 40%, its value healed reduced 33%, and was given a 6-second cooldown; as a result, there is no practical scenario where it would be a better use of Runic Power than Death Strike.
+
+[h3]Tier 7 (Level 100) Talents for Blood DK[/h3]
+[spell=205723] should be considered your default choice, though all talents on this row are situationally valuable.  The cooldown reduction from [spell=205723] will allow for better cooldown plans in many situations and should be taken at any time this is the case.  [spell=114556] is extremely valuable early on while progressing on a boss, giving you the additional opportunities to learn the mechanics without wiping your entire raid or group.  [spell=194844] has had its self-healing increased significantly and continues to deal massive amounts of damage in AoE encounters. It should be taken in any AoE encounter where the other talents on this row are not required.
+
+[guide-content=6408]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[/guide-content]
+
+[ul]
+[li][spell=208683]: You don't want your CC removal to be triggered by an NPC's non-threatening ability, only to have it on cooldown for a PvP fight.  Choose this talent to retain control over your CC break.[/li]
+[li][spell=233411]: The health cost of this is easily recovered, and the massive boost to [spell=206930] damage will improve your damage output significantly.[/li]
+[li][spell=233412]: The uptime boost to [spell=49028] will also significantly increase your damage output, and make reduce the pain from rebuilding stacks of [spell=195181] when they drop between pulls.[/li]
+[li][spell=202727]: An extra charge of [spell=49576] is a big improvement to your quality of life while questing.[/li]
+[/ul]
+
+[guide-content=7131]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]

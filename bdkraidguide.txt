@@ -1,0 +1,42 @@
+﻿[ul]Raid Tips Intro[/ul]
+[guide-content=7157]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+
+[ul]About the Author[/ul]
+[guide-content=6524][/guide-content]
+[pad]
+[toc]
+[hr]
+[pad]
+
+[ul]Uldir Intro[/ul]
+[guide-content=7159]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+[h2]Blood Death Knight Raiding Strengths[/h2]
+Blood's primary benefit in raids, versus other tanks, is utility - particularly !!DG!! and !!GG!!.  In many raids, there will be one or more encounters for which these abilities are so strong as to be virtually mandatory.  Beyond that, Blood still has a higher degree of self-sustain than most tanks; it is likely that any time a third tank is needed to "babysit" a target, Blood will remain a strong choice for this role.
+
+[h2]Blood Death Knight Raiding Weaknesses[/h2]
+The reactive self-healing mitigation model Blood uses is [i]particularly[/i] difficult to deal with in challenging raid encounters. You will need to be careful to time your [spell=49998]s to maximize healing and avoid causing healers to overheal damage you're mitigating through self-heals. Additionally, Blood struggles with mobility.  This can make quickly and accurately positioning bosses more difficult for Blood DKs than other tanks.
+
+[h2]Best Azerite Choices for Blood Death Knights[/h2]
+Most Azerite traits are equally valuable for Blood in any content.  Check out our [url=https://www.wowhead.com/guides/blood-death-knight-azerite-traits-powers-armor-bfa-battle-for-azeroth]Azerite Guide[/url] for an in-depth discussion of what Azerite Traits and Gear to pursue.  Some of the best options for Azerite gear can be found in this table:
+
+
+[ul]Problems Footer[/ul]
+[guide-content=7284]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]

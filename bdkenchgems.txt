@@ -1,0 +1,41 @@
+﻿[guide-content=6414]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
+[pad]
+[ul]About the Author ->[/ul][guide-content=6524][/guide-content]
+[pad]
+[hr]
+[toc]
+[pad]
+[minor-heading]Best Enchants for Blood DKs[/minor-heading]
+
+[ul]
+[li][b]Ring[/b] - Use [url=https://www.wowhead.com/item=153443/enchant-ring-pact-of-haste&lvl=120][icon name="inv_misc_enchantedscroll"][/icon]Enchant Ring - Pact of Haste[/url].[/li]
+[li][b]Weapon (Runeforge)[/b] - Use [spell=53344] in most situations. If the encounter has an ability or phase where you have a significant risk of dying in the space of a few seconds, you can use [spell=62158] instead.[/li][/ul]
+
+[minor-heading]Potions and Flasks for Blood DKs[/minor-heading]
+
+[ul]
+[li][b]Potion[/b] - For most situations, you will want to use [url=https://www.wowhead.com/item=163224/battle-potion-of-strength&lvl=120][icon name="trade_alchemy_potionc2"][/icon]Battle Potion of Strength[/url]. It provides slightly less damage reduction than [url=https://www.wowhead.com/item=152557/steelskin-potion&lvl=120][icon name="inv_alchemy_80_elixir01green"][/icon]Steelskin Potion[/url], but has an offensive benefit, and Blood Death Knights do not suffer from a lack of available defensive cooldowns.  For a pre-pot, you can use [url=https://www.wowhead.com/spell=252342/potion-of-bursting-blood&lvl=120][icon name="inv_alchemy_80_elixir01purple"][/icon]Potion of Bursting Blood[/url] for a significant damage increase, particularly if you won't be significantly threatened in the first 25 seconds of the fight.
+[/li]
+[li][b]Flask[/b] - Use [url=https://www.wowhead.com/item=152641/flask-of-the-undertow&lvl=120][icon name="inv_alchemy_80_flask01orange"][/icon]Flask of the Undertow[/url], unless you need the additional Health from [url=https://www.wowhead.com/item=152640/flask-of-the-vast-horizon&lvl=120][icon name="inv_alchemy_80_flask01red"][/icon]Flask of the Vast Horizon[/url]. If using [item=162519], be sure to change specialization to Frost or Unholy before consuming the [item=162518] to get the Strength buff.[/li][/ul]
+
+[minor-heading]Best Food for Blood DKs[/minor-heading]
+
+[ul][li][b]Food[/b] - Use [url=https://www.wowhead.com/item=156526/bountiful-captains-feast&lvl=120][icon name="inv_cooking_80_majorfeast"][/icon]Bountiful Captain's Feast[/url] if available. You will want to change specialization to Frost or Unholy before eating to gain Strength from the feast, unless you need additional Stamina to survive a specific attack.  You can use [url=https://www.wowhead.com/item=154884/swamp-fish-n-chips&lvl=120][icon name="inv_cooking_80_swampfishnchips"][/icon]Swamp Fish 'n Chips[/url] if the feast is not available to you.[/li][/ul]
+
+[minor-heading]Best Gems for Blood DKs[/minor-heading]
+
+[ul][li][b]Gems[/b] - Use [url=https://www.wowhead.com/item=154127/quick-owlseye&lvl=120][icon name="inv_jewelcrafting_80_cutgem02_yellow"][/icon]Quick Owlseye[/url].[/li][/ul]
+
+[guide-content=7135]
+[replace="$spec" with="Blood"]
+[replace="$class" with="Death Knight"]
+[replace="$lspec" with="blood"]
+[replace="$lclass" with="death-knight"]
+[replace="dps" with="tank"]
+[/guide-content]
